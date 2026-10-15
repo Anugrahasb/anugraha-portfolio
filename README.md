@@ -1,6 +1,6 @@
 # Anugraha S.B. — Interactive Developer Portfolio
 
-A responsive portfolio for an Android Developer and Kotlin Multiplatform Engineer. This is an original implementation inspired by the interaction-rich structure of [januprasad/januprasad.github.io](https://github.com/januprasad/januprasad.github.io), including a flip badge, floating profile companion, illustrated project cards, experience timeline, and mobile-friendly layouts. It does not copy that repository's source code or assets.
+A responsive portfolio for an Android Developer and Kotlin Multiplatform Engineer.
 
 ## Preview locally
 1. Extract the ZIP.
