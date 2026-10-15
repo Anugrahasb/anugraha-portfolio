@@ -33,12 +33,6 @@ For a local web server, run `python3 -m http.server 8000` in this folder and vis
 
 The structure follows the reference portfolio's broad section pattern (profile, featured work, experience, skills/toolkit, contact) while using original styling and Anugraha's own career details. It does not copy the reference repository's source code or assets. The typography uses Space Grotesk and IBM Plex Mono from Google Fonts; an internet connection is required for those web fonts to load.
 
-## Before publishing
-- Review the résumé and project details before making them public.
-- Client projects are described at a high level; do not add confidential screenshots, code or data.
-- The floating profile card uses initials rather than a personal photo. Replace it with a portrait only if you want to share one.
-- The portfolio is a static site; the contact links open external profiles. No backend or contact-form service is required.
-
 
 ### Typography update
 The portfolio now uses Space Grotesk for interface/headline text and IBM Plex Mono for code-like labels and metadata. These are loaded from Google Fonts, so an internet connection is required for the custom fonts to appear. The referenced GitHub font folder could not be inspected directly, so these are a similar developer-focused pairing rather than a verified exact copy of its font files.
